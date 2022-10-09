@@ -1,0 +1,4 @@
+.CardBody:hover,
+.CardBody[hover] {
+  filter: brightness(85%);
+}
